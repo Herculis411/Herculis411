@@ -10,7 +10,7 @@ A diligent and motivated Cyber Security Analyst with a strong foundation in info
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/stephen-odunze411/)
 * ✉️  You can contact me at [odunzestephen1@gmail.com](mailto:odunzestephen1@gmail.com)
 * 🚀  I worked on [UDACITY Enterprise Security - Bertelsmann](http://emc.udacity.com/c/scholarshipsbertelsmann/)
-* 🧠  I'm learning CIS Benchmarks
+* 🧠  I'm learning DevSecOps
 
 ### Skills
 
