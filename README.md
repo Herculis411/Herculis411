@@ -6,7 +6,7 @@ Cyber Security Analyst | Security+ | CC | ITIL | Network Security | Cloud
 
 A diligent and motivated Cyber Security Analyst with a strong foundation in information security principles and practices, Cybersecurity, Networking, and Incident Response, equipped with comprehensive training and hands-on experience. Adept in analyzing Network performance, identifying vulnerabilities, implementing robust security measures, protecting sensitive data, translating complex technical concepts into understandable and actionable content, and committed to detecting and responding to security Incidents to protect organizational assets from cyber threats. Seeking a challenging opportunity to further develop skills in cybersecurity, contribute to cutting-edge research, and leverage a strong academic foundation for a successful career within a dynamic and collaborative environment.
 
-* 🌍  I'm based in Scotland
+* 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/stephen-odunze411/)
 * ✉️  You can contact me at [odunzestephen1@gmail.com](mailto:odunzestephen1@gmail.com)
 * 🚀  I worked on [UDACITY Enterprise Security - Bertelsmann](http://emc.udacity.com/c/scholarshipsbertelsmann/)
