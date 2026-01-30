@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Odunze
 ======================================================================================================================================
 
-Cyber Security Analyst | Security+ | CC | ITIL | Network Security | Cloud
+Cyber Security Consultant | Security+ | CC | ITIL | Network Security | Cloud
 -------------------------------------------------------------------------
 
 A diligent and motivated Cyber Security Analyst with a strong foundation in information security principles and practices, Cybersecurity, Networking, and Incident Response, equipped with comprehensive training and hands-on experience. Adept in analyzing Network performance, identifying vulnerabilities, implementing robust security measures, protecting sensitive data, translating complex technical concepts into understandable and actionable content, and committed to detecting and responding to security Incidents to protect organizational assets from cyber threats. Seeking a challenging opportunity to further develop skills in cybersecurity, contribute to cutting-edge research, and leverage a strong academic foundation for a successful career within a dynamic and collaborative environment.
