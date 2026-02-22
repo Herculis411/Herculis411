@@ -15,9 +15,23 @@ A diligent and motivated Cyber Security Analyst with a strong foundation in info
 ### Skills
 
 
+### Skills
+
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <!-- Existing DevOps & Dev Skills -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="rlang" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="Linux" /></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="Google Cloud" /></a>
+
+  <!-- Newly Added DevSecOps Tools -->
+  <a href="https://snyk.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net" width="36" height="36" alt="Snyk" /></a>
+  <a href="https://www.sonarqube.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net" width="36" height="36" alt="SonarQube" /></a>
+  <a href="https://trivy.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com" width="36" height="36" alt="Trivy" /></a>
+  <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net" width="36" height="36" alt="HashiCorp Vault" /></a>
 </p>
+
 
 
 ### Socials
